@@ -110,9 +110,3 @@ The second command runs every experiment and writes one CSV per experiment to th
 - E. J. Groth, "A pattern-matching algorithm for two-dimensional coordinate lists", *Astronomical Journal* 91, 1986.
 - G. Wahba, "A least squares estimate of satellite attitude", *SIAM Review* 7(3), 1965; F. L. Markley, *J. Astronautical Sciences* 36(3), 1988.
 - C. C. Liebe, "Star trackers for attitude determination", *IEEE AES Magazine* 10(6), 1995.
-
-## Team
-
-Haider Fouad (team leader) · Narjis Saad · Sama Samir · Hajar Ahmad · Shireen Salim
-
-Supervised by Dr. Saja Dheyaa Khudhur and Dr. Sama Salam Samaan.
